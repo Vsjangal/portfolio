@@ -1,5 +1,4 @@
 import {
-  ArrowRightIcon,
   SunIcon,
   MoonIcon,
 } from "@heroicons/react/solid";

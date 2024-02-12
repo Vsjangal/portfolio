@@ -11,7 +11,7 @@ const LandingPage = ({ onExploreClick }) => {
       </div>
       <img
         src={landingImage}
-        alt="Landing Image"
+        alt="landing page"
         className=" h-1/2 rounded-full"
       />
       <button
